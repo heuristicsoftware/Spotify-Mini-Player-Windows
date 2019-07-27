@@ -1,0 +1,10 @@
+E:\Software\Spotify Mini Player\Application\Spotify Mini-Player\bin\Debug\Spotify Mini-Player.exe.config
+E:\Software\Spotify Mini Player\Application\Spotify Mini-Player\bin\Debug\Spotify Mini-Player.exe
+E:\Software\Spotify Mini Player\Application\Spotify Mini-Player\bin\Debug\Spotify Mini-Player.pdb
+E:\Software\Spotify Mini Player\Application\Spotify Mini-Player\obj\Debug\Spotify Mini-Player.csprojAssemblyReference.cache
+E:\Software\Spotify Mini Player\Application\Spotify Mini-Player\obj\Debug\Spotify_Mini_Player.Form1.resources
+E:\Software\Spotify Mini Player\Application\Spotify Mini-Player\obj\Debug\Spotify_Mini_Player.Properties.Resources.resources
+E:\Software\Spotify Mini Player\Application\Spotify Mini-Player\obj\Debug\Spotify Mini-Player.csproj.GenerateResource.cache
+E:\Software\Spotify Mini Player\Application\Spotify Mini-Player\obj\Debug\Spotify Mini-Player.csproj.CoreCompileInputs.cache
+E:\Software\Spotify Mini Player\Application\Spotify Mini-Player\obj\Debug\Spotify Mini-Player.exe
+E:\Software\Spotify Mini Player\Application\Spotify Mini-Player\obj\Debug\Spotify Mini-Player.pdb
