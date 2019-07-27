@@ -16,5 +16,20 @@ namespace Spotify_Mini_Player
         {
             InitializeComponent();
         }
+
+        private void btn_options_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Btn_Queue_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void CoverImage_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
